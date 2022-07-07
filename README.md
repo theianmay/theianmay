@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theianmay
-- 👀 I’m interested in technology.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning SQL & Python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me best is by email.
 
