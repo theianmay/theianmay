@@ -11,6 +11,7 @@ Skills: Windows / Linux / Cloud / IT Operations / Secure Infrastructure
 - 💬 Ask me about how to study for CompTIA certifications. 
 - ⚡ Fun fact: I am a FAA certified drone pilot.
 
+![Profile views](https://gpvc.arturio.dev/theianmay)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theianmay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/theianmay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.vuln-table.com/)  
 
@@ -18,7 +19,7 @@ Skills: Windows / Linux / Cloud / IT Operations / Secure Infrastructure
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theianmay&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/theianmay)  
+- Credit to @arturssmirnovs (https://github.com/arturssmirnovs/github-profile-readme-generator)
 
 <!---
 theianmay/theianmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
