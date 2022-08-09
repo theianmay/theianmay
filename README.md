@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ian
 #### I am working on my GitHub profile for fun
-I work as an enterprise systems professional and am a cybersecurity enthusiast. My recent project was creating vuln-table.com to allow users to interact with the known exploited vulnerability (KEV) catalog from their web browser. 
+I work as an information systems professional and am a cybersecurity enthusiast. My recent project was creating vuln-table.com to allow users to interact with the known exploited vulnerability (KEV) catalog from their web browser. 
 
 Skills: Windows / Linux / Cloud / IT Operations / Secure Infrastructure
 
