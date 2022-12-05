@@ -13,7 +13,7 @@ Skills: Windows / Linux / Cloud / IT Operations / Secure Infrastructure
 
 ![Profile views](https://gpvc.arturio.dev/theianmay)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theianmay&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theianmay)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theianmay&count_private=true&show_icons=true&theme=transparent&hide_rank=false)  
 
