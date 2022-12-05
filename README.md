@@ -13,8 +13,6 @@ Skills: Windows / Linux / Cloud / IT Operations / Secure Infrastructure
 
 ![Profile views](https://gpvc.arturio.dev/theianmay)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theianmay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/theianmay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.vuln-table.com/)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theianmay)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theianmay&show_icons=true)  
