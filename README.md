@@ -15,11 +15,10 @@ Skills: Android / Kotlin / Java / Software Development / Security
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theianmay&count_private=true&show_icons=true&theme=transparent&hide_rank=false)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theianmay)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theianmay&layout=compact)
   
-  ![Profile views](https://gpvc.arturio.dev/theianmay)  
+  ![](https://komarev.com/ghpvc/?username=theianmay&style=for-the-badge&color=blue)
   
-- Credit to @arturssmirnovs (https://github.com/arturssmirnovs/github-profile-readme-generator)
 
 <!---
 theianmay/theianmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
