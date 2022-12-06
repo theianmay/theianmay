@@ -12,7 +12,6 @@ Skills: Android / Kotlin / Java / Software Development / Security
 - ⚡ Fun fact: I am a FAA certified drone pilot.
 
 ### 📈 Stats
-<div align="left">
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theianmay&count_private=true&show_icons=true&theme=transparent&hide_rank=false)
   
@@ -20,7 +19,6 @@ Skills: Android / Kotlin / Java / Software Development / Security
   
   ![Profile views](https://gpvc.arturio.dev/theianmay)  
   
-</div>
 - Credit to @arturssmirnovs (https://github.com/arturssmirnovs/github-profile-readme-generator)
 
 <!---
