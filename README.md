@@ -15,7 +15,7 @@ Skills: Android / Kotlin / Java / Software Development / Security
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theianmay&count_private=true&show_icons=true&theme=transparent&hide_rank=false)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theianmay&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theianmay)
   
   ![](https://komarev.com/ghpvc/?username=theianmay&style=for-the-badge&color=blue)
   
