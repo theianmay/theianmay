@@ -9,7 +9,7 @@ Skills: Android / Kotlin / Java / Software Development / Security
 - 🌱 I am advancing my Kotlin, Java & Android Studio skills. 
 - 👯 I’m looking to collaborate on mobile app projects.
 - 💬 Ask me about how to study for CompTIA certifications. 
-- ⚡ Fun fact: I am a FAA certified drone pilot.
+- ⚡ Fun fact: I am an FAA certified drone pilot.
 
 ### 📈 Stats
 
