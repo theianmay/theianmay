@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Ian
 #### I am working on my GitHub profile for fun 🚀
 I am an IT professional and freelance mobile developer 📱  
-🎓 MS, Cybersecurity / BA, Business / 5+ IT Industry Certs
+🎓 MS, Information Technology / BA, Business / 5+ Industry Certs
 
-Skills: Android / Kotlin / Java / Software Development / Security
+Skills: React Native / JavaScript / Android / Kotlin / Software Development
 
-- 🔭 I’m currently developing several Android applications. 
-- 🌱 I am planning to learn React Native for cross-platform development.
-- 👯 I’m open to collaborate on mobile app projects.
+- 🔭 I’ve finished several native Android application personal projects. 
+- 🌱 I am learning React Native and JavaScript for cross-platform development.
+- 👯 I’m open to collaborate on Android and iOS mobile app projects.
 - 💬 Ask me about how to study for CompTIA certifications. 
 - ⚡ Fun fact: I am an FAA certified drone pilot.
 
