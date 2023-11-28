@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Ian
 #### I am working on my GitHub profile for fun 🚀
-I am an IT professional and freelance mobile developer 📱  
+I am an IT professional and freelance mobile app developer 📱  
 🎓 MS, Information Technology / BA, Business / 5+ Industry Certs
 
 Skills: React Native / JavaScript / Android / Kotlin / Software Development
 
-- 🔭 I’ve finished several native Android application personal projects. 
+- 🔭 I’ve finished several native Android application personal learning projects. 
 - 🌱 I am learning React Native and JavaScript for cross-platform development.
 - 👯 I’m open to collaborate on Android and iOS mobile app projects.
 - 💬 Ask me about how to study for CompTIA certifications. 
