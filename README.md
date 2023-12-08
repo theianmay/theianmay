@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Ian
 #### I am working on my GitHub profile for fun 🚀
-I am an IT professional and freelance mobile app developer 📱  
+I am an IT professional and develop software in my free time, such as mobile apps! 📱  
 
-Skills: React Native / JavaScript / Android / Kotlin / Software Development
+Current Skills Focus: React Native / JavaScript / Android / Kotlin / Software Development
 
 - 🔭 I’ve finished several native Android application personal learning projects. 
 - 🌱 I am learning React Native and JavaScript for cross-platform development.
