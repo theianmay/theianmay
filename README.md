@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ian  
 I am a **React Native Developer** based in the San Francisco Bay Area  
 📱 Building cross‑platform mobile apps with React Native & Expo  
-💻 Backed by strong experience in systems architecture and enterprise IT
+💻 Leveraging strong experience in systems architecture and enterprise IT
 
 ---
 
@@ -36,7 +36,7 @@ Jest • Expo EAS Build • GitHub Actions • OTA Updates
 ---
 
 #### 🤝 Let’s Collaborate
-- 🔭 Primarily available for freelance React Native work, but open to full-time for the right opportunity (hybrid in SF Bay Area or remote in US time zones)  
+- 🔭 Primarily available for contract/freelance React Native work, but open to full-time for the right opportunity (hybrid in SF Bay Area or remote in US time zones)  
 💬 Always open to chat about opportunities or collaborations — reach out via email: - 📫 caesiusbay@gmail.com
 
 ---
