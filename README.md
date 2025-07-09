@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ian  
 I am a **React Native Developer** based in the San Francisco Bay Area  
 📱 Building cross‑platform mobile apps with React Native & Expo  
-💻 Backed by a strong enterprise IT and systems architecture background  
+💻 Backed by strong experience in systems architecture and enterprise IT
 
 ---
 
