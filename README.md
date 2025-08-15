@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Ian  
 I am a **React Native Developer** based in the San Francisco Bay Area  
 📱 Building cross‑platform mobile apps with React Native & Expo  
-💻 Leveraging strong experience in systems architecture and enterprise IT
+🖥️ Leveraging strong experience in systems architecture and enterprise IT
 
 ---
 
-#### 🚀 About Me
+#### ☕ About Me
 - I create high-impact mobile apps that simplify development, reduce costs, and improve maintainability
-- Recently launched AssetRanger 🎉 an app built in React Native + Expo that was migrated from a legacy iOS app
+- Recently launched AssetRanger 🚀 an app built in React Native + Expo that was migrated from a legacy iOS app
 - Passionate about crafting performant, user‑friendly mobile experiences - currently working on my next big thing!
 
 ---
