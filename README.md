@@ -7,8 +7,8 @@ I am a **React Native Developer** based in the San Francisco Bay Area
 
 #### 🚀 About Me
 - I create high-impact mobile apps that simplify development, reduce costs, and improve maintainability
-- Currently working with a client on migrating an iOS app to a unified React Native + Expo codebase with full Android support  
-- Passionate about crafting performant, user‑friendly mobile experiences  
+- Recently launched AssetRanger 🎉 an app built in React Native + Expo that was migrated from a legacy iOS app
+- Passionate about crafting performant, user‑friendly mobile experiences - currently working on my next big thing!
 
 ---
 
@@ -29,7 +29,7 @@ Jest • Expo EAS Build • GitHub Actions • OTA Updates
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| **iOS→React Native App Port** | Porting a legacy iOS app to a single React Native JavaScript codebase for both platforms. | React Native • Expo • Zustand • SQLite |
+| **AssetRanger** [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white">](https://apps.apple.com/us/app/assetranger/id6747605723?platform=iphone) [<img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white">](https://play.google.com/)| AssetRanger is a mobile asset management application that helps you track inventory items through check-out and return workflows with barcode scanning and location tracking. [Learn more](https://theianmay.github.io/asset-ranger-site) | <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"> |
 | **Mars Photos App** | Native Android learning project that fetches and displays NASA’s Mars photos using a REST API. | Kotlin • Moshi • Retrofit • Coil |
 | **Personal Project - Coming Soon** | Developing a consumer-facing mobile app with AI-first features using React Native and modern tooling. | React Native • Expo • TypeScript • Firebase |
 
