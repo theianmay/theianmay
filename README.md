@@ -6,9 +6,9 @@ I am a **React Native Developer** based in the San Francisco Bay Area
 ---
 
 #### ☕ About Me
-- I create high-impact mobile apps that simplify development, reduce costs, and improve maintainability
+- I am passionate about crafting performant, user‑friendly mobile experiences for both iOS and Android
 - Recently launched NutriCue AI 🚀 a mobile app that uses AI to help users remember to take their vitamins
-- Passionate about crafting performant, user‑friendly mobile experiences - currently working on my next big thing!
+- Eager to contribute to the open source community - currently working on [React Native Elements](https://reactnativeelements.com/) // Join the Discord [HERE](https://discord.com/invite/e9RBHjkKHa)
 
 ---
 
