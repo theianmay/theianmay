@@ -14,20 +14,20 @@ I am a **React Native Developer** based in the San Francisco Bay Area
 
 #### 💻 Tech Stack
 
-**Mobile & Cross-Platform**  
+**Mobile Development**  
 React Native • Expo • TypeScript • React Navigation • Expo Router
 
-**State & Data Management**  
-Zustand • AsyncStorage • SQLite • REST APIs • Custom Hooks
+**UI & Design**  
+React Native Elements (Contributor) • Design Systems • Theming
 
-**Native Features & UI**  
-Expo Camera • Expo Notifications • React Native Paper • Material Design 3 • Gesture Handler
+**State & Data**  
+Zustand • AsyncStorage • SQLite • REST APIs
 
-**Backend & AI Integration**  
-Node.js • Express • OpenAI API • JWT Authentication • RevenueCat SDK
+**Backend & Services**  
+Node.js • Express • PostgreSQL • Railway • OpenAI API • RevenueCat
 
 **Testing & Development**  
-Jest • React Native Testing Library • ESLint • Expo EAS Build
+Jest • React Native Testing Library • ESLint/Prettier • EAS Build & Submit
 
 ---
 
