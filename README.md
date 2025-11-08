@@ -9,7 +9,7 @@
 ### ☕ About Me
 - 💻 Crafting performant, user-friendly mobile apps for iOS & Android  
 - 🚀 Creator of **[NutriCue AI](https://apps.apple.com/us/app/nutricue-ai/id6751450588)** — launched during **Shipathon 2025**, a mobile hackathon, now live on App Store & Google Play  
-- 🛠️ Maintainer for **[React Native Elements](https://reactnativeelements.com/)** — join the [Discord](https://discord.com/invite/e9RBHjkKHa)
+- 🛠️ Maintainer for **[React Native Elements](https://reactnativeelements.com/)**, a cross-platform UI toolkit with ~25.6k GitHub ⭐ and 58k+ weekly NPM downloads
 
 ### ⚙️ Tech Stack
 **Mobile:** React Native · Expo · TypeScript  
