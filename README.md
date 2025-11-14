@@ -7,16 +7,16 @@
 ---
 
 ### ☕ About Me
-- 💻 Crafting performant, user-friendly mobile apps for iOS & Android  
+- 💻 Crafting performant, user-friendly mobile apps for iOS & Android
+- 🛠️ Maintainer for **[React Native Elements](https://reactnativeelements.com/)**, a cross-platform UI toolkit with ~25.6k GitHub ⭐ and 58k+ weekly NPM downloads  
 - 🚀 Creator of **[NutriCue AI](https://apps.apple.com/us/app/nutricue-ai/id6751450588)** — launched during **Shipathon 2025**, a mobile hackathon, now live on App Store & Google Play  
-- 🛠️ Maintainer for **[React Native Elements](https://reactnativeelements.com/)**, a cross-platform UI toolkit with ~25.6k GitHub ⭐ and 58k+ weekly NPM downloads
 
 ### ⚙️ Tech Stack
 **Mobile:** React Native · Expo · TypeScript  
 **Backend:** Node.js · Express · PostgreSQL · OpenAI API  
 **Infra:** Railway · RevenueCat  
 **Testing:** Jest · React Native Testing Library · EAS Build  
-**Currently expanding into:** full-stack development with React & Supabase
+**Currently expanding into:** full-stack development with React, Next.js, Tailwind CSS & Supabase
 
 ---
 
