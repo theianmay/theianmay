@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Ian — React Native Developer from the SF Bay Area
+### 👋 Hi, I'm Ian — Software Developer from the SF Bay Area
 
 🚀 Published **cross-platform apps** on the App Store and Google Play  
 📱 Specializing in **React Native · Expo · TypeScript · AI integrations**  
@@ -7,7 +7,7 @@
 ---
 
 ### ☕ About Me
-- 💻 Crafting performant, user-friendly mobile apps for iOS & Android
+- 💻 Crafting performant, user-friendly mobile apps for iOS & Android and actively building full-stack web applications for fun & learning
 - 🛠️ Maintainer for **[React Native Elements](https://reactnativeelements.com/)**, a cross-platform UI toolkit with ~25.6k GitHub ⭐ and 58k+ weekly NPM downloads  
 - 🚀 Creator of **[NutriCue AI](https://apps.apple.com/us/app/nutricue-ai/id6751450588)** — launched during **Shipathon 2025**, a mobile hackathon, now live on App Store & Google Play  
 
