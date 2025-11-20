@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Ian — Software Developer from the SF Bay Area
 
-🚀 Published **cross-platform apps** on the App Store and Google Play  
-📱 Specializing in **React Native · Expo · TypeScript · AI integrations**  
-🧠 Aspiring Full-Stack Engineer with experience in **Node.js · Express · PostgreSQL**
+🚀 Building web and mobile applications, having published **cross-platform apps** on the App Store and Google Play  
+📱 Specializing in **React · React Native · Expo · TypeScript · AI integrations**  
+🧠 Aspiring Full-Stack Engineer with experience in **Next.js · React · Node.js · Express · PostgreSQL**
 
 ---
 
