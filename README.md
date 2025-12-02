@@ -1,13 +1,13 @@
 ### 👋 Hi, I'm Ian — Software Developer from the SF Bay Area
 
-🚀 Building web and mobile applications, published **cross-platform apps** on the App Store and Google Play  
-📱 Specializing in **React · React Native · Expo · TypeScript · AI integrations**  
-🧠 Aspiring Full-Stack Engineer with experience in **Next.js · React · Node.js · Express · PostgreSQL**
+🚀 Experience building web and mobile applications, having published **cross-platform apps** on the App Store and Google Play  
+📱 Specializing in **React Native · Expo · React · TypeScript · AI integrations**  
+🧠 Emerging Full-Stack Engineer with experience in **Next.js · React · Node.js · Express · PostgreSQL**
 
 ---
 
 ### ☕ About Me
-- 💻 Actively building full-stack web applications and crafting performant, user-friendly mobile apps for iOS & Android
+- 🥉 Won third place with my team out of ~670 engineers at the **2025 Cactus X Nothing X HuggingFace** AI Mobile hackathon [event](https://luma.com/jrec73nt) for creating an open protocol specification for AI memory on edge devices [Learn more](https://github.com/theianmay/edge-memory)
 - 🛠️ Maintainer for **[React Native Elements](https://reactnativeelements.com/)**, a cross-platform UI toolkit with ~25.6k GitHub ⭐ and 58k+ weekly NPM downloads  
 - 🚀 Creator of **[NutriCue AI](https://apps.apple.com/us/app/nutricue-ai/id6751450588)** — launched during **Shipathon 2025**, a mobile hackathon, now live on App Store & Google Play  
 
