@@ -13,11 +13,6 @@ I build mobile apps, contribute to open source, and maintain **React Native Elem
 - 📱 Building mobile + backend projects end-to-end & expanding full-stack skills (React, Node, Postgres)
 - 💻 Prototyping mobile AI features using [Cactus SDK](https://cactuscompute.com/) and locally deployed text, vision, and speech models
 
-## Links
-Portfolio: https://github.com/theianmay?tab=repositories  
-NutriCue AI: https://theianmay.github.io/nutricue-ai-site  
-AssetRanger: https://theianmay.github.io/asset-ranger-site  
-
 📫 **Contact:** caesiusbay@gmail.com
 
 ---
